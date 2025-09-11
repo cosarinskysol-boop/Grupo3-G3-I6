@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_h4yh5">Fragmento del Lazarillo de Ciegos Caminantes - Folios H4 y H5</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor xml:id="vt">Valentina Taboada</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales UTDT 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+          <body>
+             <p><pb n="h4"/>a donde se hacen las más gruesas compras, de treinta a treinta y cinco pesos el par. Las contingencias y riesgos de este comercio explicaré con alguna claridad luego que llegue a <placeName key="salta">Salta</placeName>.</p>
+
+             <p>No hubo persona que me dijese, ni a tanteo, el número de vecinos de que se compone esta ciudad, porque ni <note xml:id="h4nota1">el Cabildo eclesiástico</note> ni <note xml:id="h4nota2">el secular</note> tienen padrones, y no sé como aquellos colonos prueban la antigüedad y distinguida nobleza de que se jactan; puede ser que cada familia tenga su historia genealógica reservada. En mi concepto, habrá en el casco de la ciudad y estrecho <note xml:id="h4nota3">ejido</note> de quinientos a seiscientos vecinos, pero en las casas principales es crecidísimo el número de esclavos, la mayor parte criollos, de cuantas castas se pueden discurrir, porque en esta ciudad y en todo el <placeName key="tucuman">Tucumán</placeName> no hay fragilidad de dar libertad a ninguno, y como el alimento principal, que es la carne, está a precio muy moderado y no hay costumbre de vestirlos sino de aquellas telas ordinarias que se fabrican en casa por los propios esclavos, siendo muy raro el que trae zapatos, se mantienen fácilmente y alivian a sus amos con otras <note xml:id="h4nota4">granjerías</note>, y con <pb n="h5"/>esta su gestión no piensan en la liberztad, con la cual se exponían como sucede en <placeName key="lima">Lima</placeName>.</p>
+
+             <p>A mi tránsito se estaban vendiendo en <placeName key="cordoba">Córdoba</placeName> dos mil negros, todos criollos de <note xml:id="h5nota1">las Temporalidades</note><!-- Buscar qué son "Las Temporalidades" -->, sólo de las dos haciendas de <note xml:id="h5nota2">los colegios de esta ciudad</note>. He visto las listas, porque cada uno tiene la suya aparte, y se procede por familias, que las hay desde dos hasta once, todos negros puros, y criollos hasta la cuarta generación, porque los regulares vendían todas aquellas criaturas que salían con mezcla de español, mulato o indio. Entre esta multitud de negros hubo muchos músicos y de todos oficios, y se procedió a la venta por familias. Me aseguraron que sólo <note xml:id="h5nota3">las religiosas de Santa Teresa</note> tenían una ranchería de trescientos esclavos de ambos sexos a quienes dan sus raciones de carne y vestido de las burdas telas que trabajan, contentándose estas buenas madres con el residuo de otras agencias. Mucho menor es el número que hay en las demás religiones, pero hay casa particular que tiene treinta y cuarenta, de que la mayor parte se ejercitan en varias  <note xml:id="h5nota4">granjerías</note> de que re</p>
+             
+          </body>
+        </text>
+</TEI>
