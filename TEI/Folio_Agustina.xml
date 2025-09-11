@@ -1,0 +1,53 @@
+copia 
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Gabriel Calarco</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="16r"/>
+
+<head><foreign xml:lang="latin">Canendo et ludendo refero vera</foreign></head>
+<pb n="H2"/>  
+<p>Considerando por otra parte a los señores tucumanes, principalmente de <placeName key="cordoba">Córdoba</placeName> y <placeName>Salta</placeName>, tan generosos que tocan en pródigos viendo con sus ojos casi anualmente las iglesias de los indios de <placeName key="potosi">Potosí</placeName> al <placeName key="cuzco">Cuzco</placeName> tan adornadas, que causa complacencia ver el esfuerzo que hacen unos miserables para engrandecer al Señor con los actos exteriores, que excitan mucho a la contemplación y dan materia a los españoles para que le den gracias y se congratulen de la feliz conquista que han hecho sus antepasados. Esta silla se trasladó a esta ciudad de la de <placeName key="santiagodelestero">Santiago del Estero</placeName> por las razones que se dirán en su lugar. A un lado de la catedral está la casa del Cabildo secular, que por su humilde fábrica manifiesta su antigüedad.</p>
+
+<p>En lo demás de la ciudad hay muchas casas buenas y fuertes y, aunque son pocas las que tienen altos, son muy elevados los techos de las bajas y las piezas suficientemente proporcionadas. Tienen tres conventos de frailes: de <placeName key="santodomingo">Santo Domingo</placeName>, <placeName key="sanfra">San Francisco</placeName> y <placeName key="merced">la Merced,</placeName> y hospital de padres Bethlemitas, que está en los principios de su fundación. También hay dos colegios, adonde se enseñan facultades. El uno se dice real, cuyo rector es clérigo, y el otro es de <persName key="monserrat">Monserrat</persName>, que 
+
+<pb n="H3"/>    
+su dirección está al cargo de padres de <placeName key="sanfra">San Francisco</placeName>, con título de universidad, que provee de borlas a las tres provincias del <placeName key="tucuman">Tucumán</placeName>. También hay dos conventos de monjas: de <placeName key="santatere">Santa Teresa</placeName> y <placeName key="santaclara">Santa Clara</placeName>, y todos cinco con mucha fama de observantes. En pocos lugares de la <placeName key="america">América</placeName>, de igual tamaño, habrá tantos caudales, y fueran mucho mayores si no gastaran tanto en pleitos impertinentes, porque los hombres, así europeos como criollos, son laboriosos y de espíritu. Su principal trato es la compra de mulas tiernas en los pagos de <placeName key="bsas">Buenos Aires</placeName>, <placeName key="stafe">Santa Fe</placeName> y <placeName key="corrientes">Corrientes</placeName> que traen a los potreros de <placeName key="cordoba">Córdoba</placeName> a invernar, donde también hay algunas crías, y después de fortalecidas y robustas las conducen  a las inmediaciones de <placeName key="salta">Salta</placeName>, donde hacen segunda invernada, que no baja de seis meses ni excede de un año. Allí hacen sus tratos con los que bajan del <placeName key="peru">Perú</placeName> a comprarlas, cuyo precio estos últimos años ha sido de siete y medio a ocho pesos por cabeza. Otros las envían o llevan de su cuenta para venderlas en las tabladas del <placeName key="peru">Perú</placeName>, donde tienen el valor según las distancias, valiendo regularmente en la tablada de Coporaca, inmediata al <placeName key="cuzco">Cuzco</placeName>.</p>
+
+</body>
+</text>
+</TEI>
