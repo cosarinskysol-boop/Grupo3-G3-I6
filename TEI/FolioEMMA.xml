@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Emma Alvarez</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>NHumanidades Digitales UTDT 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+        <text>
+            <body>
+<pb n="G64"/>
+</p>A la salida del Carcarañar, o llámese de la Esquina de la Guardia, da principio la provincia del <placeName key="tucuman">Tucumán</placeName> siguiendo el camino real de los correos por la jurisdicción de <placeName key="cordoba">Córdoba</placeName>, costeando el <placeName key="riotercero">río Tercero</placeName> por la banda del oeste. Este río es muy caudaloso, de aguas turbias y mansas, algo salado y con bastantes peces que cogen los muchachos por mera  
+
+<pb n="64r"/> 
+diversión, dejándolos a las orillas, porque sus naturales, sin embargo de que la carne no está tan abundante como en los pagos de <placeName key="bsas">Buenos Aires</placeName>, no los aprovechan; ni aun los perros los quieren comer. Por la una y otra banda está bordado de sauces, chañares y algarrobos. 
+
+<p> Los pastos no son tan finos como los de <placeName key="bsas">Buenos Aires</placeName>, pero son de más fuerte alimento para los ganados. Los caballos y bueyes son fuertes y de mucho trabajo. Una y otra banda están pobladas a trechos de algunos pequeños criadores, que también cogen trigo y <note xml:id="e6nota1">cebada</note>. La fruta más común es el durazno. Muchachos, mujeres y hombres, aunque no sepan nadar, pasan este río en caballos, que son diestrísimos. Conducen forasteros de la una a la otra banda en un cuero de toro en figura de una canasta cuadrilonga, por el corto estipendio de dos reales, sin perder casi nada el barlovento, porque los caballos son tan diestros que siempre presentan el pecho a la corriente, y en cada viaje llevan dos hombres con su aderezo de caballos, pellones y maletas.
+
+Así como a la India Muerta y al <placeName key="frailemuerto">Fraile Muerto</placeName> se dice comúnmente porque algún tigre mata a una india o a un fraile, se dice también que la Cabeza del Tigre es porque un hombre mató a una fiera de este nombre y clavó su cabeza en aquel sitio. El <placeName key="saladilloderuizdiaz">Saladillo de Ruy Díaz</placeName>, y que comprende a todos los Saladillos, se dice porque siendo comúnmente las aguas algo saladas,   
+
+<pb n="65r">
+<p> se hacen mucho más las que en las avenidas se quedan remansadas en algunos bajos de arena salitrosa que, aunque corran en tiempo de lluvia, siempre mantienen un amargo fastidioso. Igualmente se dicen Esquinas a aquellos sitios bajos por donde el río se extiende más y no hay bajada perpendicular para vadearlos, como las del Castillo y de Colman. Es opinión común que esta voz de Colman fue apellido de un inglés tan valeroso que habiendo perdido un brazo en un combate, y después de haberse curado, continuó sirviendo con uno solo contra los indios, manejando la lanza y alfanje con el mismo denuedo y asombro de amigos y enemigos. 
+ <pb n="65r"/> 
+
+
+</body>
+</text>
+</TEI>
