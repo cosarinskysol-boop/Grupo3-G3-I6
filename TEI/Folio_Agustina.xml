@@ -7,12 +7,12 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="llc_exordio123">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <title xml:id="llc_exordio123">Fragmento de El lazarillo de ciegos caminantes - Folio-45</title>
                 <author>Alonso Carrió de la Vandera</author>
-                <editor resp="digital">Gabriel Calarco</editor>  
+                <editor resp="digital">Agustina Fernandez</editor>  
              </titleStmt>
             <publicationStmt>
-                <publisher>Nombre de la asignatura</publisher>
+                <publisher>Humanidades digitales 2025</publisher>
                 <availability>
                     <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
                 </availability>
