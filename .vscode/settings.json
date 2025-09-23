@@ -1,3 +1,11 @@
 {
+<<<<<<< HEAD
+<<<<<<< HEAD
     "xslt.processor": "/Users/emmaalvarez/Desktop/humanidades digitales /repo_pruebahumdigitales/assets/saxon-he-12.9.jar"
+=======
+    "xslt.processor": "/workspaces/repo_pruebahumdigitales/assets/saxon-he-12.9.jar"
+>>>>>>> aa4339c (cambios)
+=======
+    "xslt.processor": "/workspaces/repo_pruebahumdigitales/assets/saxon-he-12.9.jar"
+>>>>>>> 1f7b990 (cambios7)
 }
