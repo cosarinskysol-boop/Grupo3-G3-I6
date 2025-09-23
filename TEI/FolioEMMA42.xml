@@ -7,7 +7,7 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="lic_exordio22">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <title xml:id="lic_exordio22">Fragmento de El lazarillo de ciegos caminantes - página 42 del pdf - G4 y G5 </title>
                 <author>Alonso Carrió de la Vandera</author>
                 <editor resp="digital">Emma Alvarez</editor>  
              </titleStmt>
@@ -35,10 +35,10 @@
     </teiHeader>
         <text>
             <body>
-<pb n="G64"/>
+<pb n="G4"/>
 <p>A la salida del Carcarañar, o llámese de la Esquina de la Guardia, da principio la provincia del <placeName key="tucuman">Tucumán</placeName> siguiendo el camino real de los correos por la jurisdicción de <placeName key="cordoba">Córdoba</placeName>, costeando el <placeName key="riotercero">río Tercero</placeName> por la banda del oeste. Este río es muy caudaloso, de aguas turbias y mansas, algo salado y con bastantes peces que cogen los muchachos por mera
 
-<pb n="64r"/> 
+<pb n="G4r"/> 
 diversión, dejándolos a las orillas, porque sus naturales, sin embargo de que la carne no está tan abundante como en los pagos de <placeName key="bsas">Buenos Aires</placeName>, no los aprovechan; ni aun los perros los quieren comer. Por la una y otra banda está bordado de sauces, chañares y algarrobos.</p>
 
 <p> Los pastos no son tan finos como los de <placeName key="bsas">Buenos Aires</placeName>, pero son de más fuerte alimento para los ganados. Los caballos y bueyes son fuertes y de mucho trabajo. Una y otra banda están pobladas a trechos de algunos pequeños criadores, que también cogen trigo y cebada. La fruta más común es el durazno. Muchachos, mujeres y hombres, aunque no sepan nadar, pasan este río en caballos, que son diestrísimos. Conducen forasteros de la una a la otra banda en un cuero de toro en figura de una canasta cuadrilonga, por el corto estipendio de dos reales, sin perder casi nada el barlovento, porque los caballos son tan diestros que siempre presentan el pecho a la corriente, y en cada viaje llevan dos hombres con su aderezo de caballos, pellones y maletas.</p>

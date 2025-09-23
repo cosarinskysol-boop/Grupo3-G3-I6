@@ -7,7 +7,7 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="lic_exordio22">Fragmento de El lazarillo de ciegos caminantes - página 49 de pdf - I2 e I3</title>
+                <title xml:id="lic_exordio22">Fragmento de El lazarillo de ciegos caminantes - página 49 del pdf - I2 e I3 </title>
                 <author>Alonso Carrió de la Vandera</author>
                 <editor resp="digital">Emma Alvarez</editor>  
              </titleStmt>
@@ -33,3 +33,19 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+        <text>
+            <body>
+<pb n="I2"/>
+<p> <placeName key="ladormida">La Dormida</placeName>, porque en aquellos sitios sólo había maestres de campo, sargentos mayores y capitanes, con cuyo pretexto se podían excusar a la maestría de postas. Los gobernadores del <placeName key="tucuman">Tucumán</placeName> parece hacen granjería de esta multitud de oficiales, que creo excede al número de los soldados que quitan, ponen y reforman, a su arbitrio. He visto mozo de treinta años, muy robusto, de sargento mayor reformado; por lo que se resolvió seguir el camino de La Dormida que dista 16 leguas de <placeName key="sinsacate">Sinsacate</placeName>; y aunque hay antes varios colonos en el <placeName key="totoral">Totoral</placeName> y en el <placeName key="simbolar">Simbolar</placeName>, con agua perenne, son gente de poca consideración, y la mayor parte gauderios, de quienes no se pueden fiar las postas, por lo que esta ha sido preciso ponerla con la distancia de 16 leguas, como sucederá siempre que haya el mismo inconveniente.</p>
+
+<p>Todo este territorio, hasta <placeName key="elcachi">el Cachi</placeName>, que es donde concluye la jurisdicción de <placeName key="cordoba">Córdoba</placeName>,, es de monte muy espeso, haciendo a dilatados trechos unas ensenadas donde están las haciendas y casas de algunos colonos dispersos. A los que caminan en carretas provee el dueño de ella de vaca cada día, a cada dos o tres,<pb n="I2r"/> 
+
+<pb n="I3"/> 
+según el número de las carretas. En las haciendas y casas de otros habitadores venden sin repugnancia gordos y tiernos corderos y gallinas a dos reales, y pollos, sin distinción de tamaños, a real. También se encuentran algunas calabazas y cebollas, rara vez pan. Se tendrá mucha precaución con los huevos, porque como los naturales no los comen, ni la mayor parte de los transeúntes, y el temperamento es ardiente, se corrompen fácilmente.</p>
+
+<p>Además de los cinco ríos que dije al principio tenía esta jurisdicción con los nombres de 1 a 5, hay muchísimos arroyos en todas las ensenadas que proveen suficientemente de agua a varios hacendados y otros colonos; pero como el terreno es flojo y de arena, se suelen hallar de repente sin agua, que va a manar adonde nunca se ha visto, volviendo otra vez a aparecérsele en los propios sitios. En el camino que va a  <placeName key="laspeñas">las Peñas</placeName>, tirando un poco al nordeste por el monte adentro, se hallan varias veredas de ganado vacuno y caballar que se dirigen al referido sitio de las Peñas, donde hubo población, que se conoce por las ruinas de las casas que están en un agradable</p>
+<pb n="I3r"/> 
+
+</body>
+</text>
+</TEI>
