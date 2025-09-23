@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="lic_exordio22">Fragmento de El lazarillo de ciegos caminantes - página 49 de pdf - I2 e I3</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Emma Alvarez</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>NHumanidades Digitales UTDT 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
