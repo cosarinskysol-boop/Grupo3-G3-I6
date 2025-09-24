@@ -7,7 +7,8 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="llc_exordio123">Folio-48</author>
+                <title xml:id="llc_exordio123">Folio-485</title>
+                <author>Alonso Carrió de la Vandera</author>
                 <editor resp="digital">Agustina Fernandez</editor>  
              </titleStmt>
             <publicationStmt>
