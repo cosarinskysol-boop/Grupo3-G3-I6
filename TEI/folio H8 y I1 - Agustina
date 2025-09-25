@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio123">Folio-48</author>
+                <editor resp="digital">Agustina Fernandez</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+                
+                
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+
+<head><foreign xml:lang="latin">Folio-H8-I1</foreign></head>
+<pb n="H8"/>  
+<p>rasteros, porque pidieron la orden por escrito de lo que debían ejecutar el día de las elecciones, les borró las plazas sobre la marcha y nombró a otros, sin dar más motivo que el que en sí reservaba, porque con toda esta <note xml:id="h8nota1">despotiquez</note> se procede en el <placeName key="tucuman"> Tucumán,</placeName> , provincia que por sí sola mantiene los abogados, procuradores y escribanos de la ciudad de <placeName key="laplata">la Plata,</placeName> .</p>
+
+<p>Cinco ríos se forman de las aguas que se descuelgan de los altos y montes de <placeName key="cordoba"> Córdoba,</placeName>  que, aunque tienen otros nombres, son los más usuales y comunes el <placeName key="rioprimero">Primero,</placeName> , <placeName key="riosegundo">Segundo,</placeName> , <placeName key="riotercero">Tercero,</placeName> , <placeName key="riocuarto">Cuarto,</placeName>  y <placeName key="rioquinto">Quinto,</placeName> , todos caudalosos, y sólo en los contornos de la ciudad se ven algunas peñas y piedra suelta en este <placeName key="rioprimero">río Primero,</placeName>, que no sirven de incomodidad ni por ellas hacen ruido las aguas, que son claras y no causan fastidio al paladar. Los mendocinos proveen esta ciudad mucha parte del año de harinas y siempre de vinos, que regularmente venden a menos precio que en <placeName key="bsas">Buenos Aires</placeName>. Los de <placeName key="sanjuandelafrontera">San Juan de la Frontera</placeName> llevan mucho aguardiente en <note xml:id="h8nota2">odres</note>. El que llaman resacado, o de cabeza, es tan fuerte y activo que mezclándole dos partes del común
+
+<pb n="I1"/>    
+que es muy flojo, tiene tanta actividad como el regular de la <placeName key="andalucia">Andalucía</placeName> y <placeName key="cataluña">Cataluña</placeName>. Aquí se hará prevención de todo, a excepción de gallinas y pollos, hasta <placeName key="santiagodelestero">Santiago Del Estero</placeName> o <placeName key="sanmigueldetucuman">San Miguel de Tucumán</placeName>.</p>
+
+<p>Las carretas, regularmente, cuando salen de esta ciudad siguiendo el viaje que llevo, no pasan de la otra banda del río, adonde harán prevención de agua los señores caminantes para dos días, no haciendo mucha confianza de la <note xml:id="h8nota3">botija</note> que va en cada carreta, porque en el camino sólo se encuentra un pozo, en tiempo de avenidas, que enturbia mucho el ganado y no se halla agua en trece leguas de monte muy espeso y ardiente, hasta que se encuentra la estancia nombrada <placeName key="estanciacaroya">Caroya,</placeName> perteneciente al colegio de <placeName key="monserratdecordoba">Monserrat de Córdoba</placeName>, y entre ésta y <placeName key="sinsacate">Sinsacate</placeName> está la Hacienda del Rey, nombrada <persName key="jesusmaria">Jesús María</persName>, que administra <persName key="donjuanjacintodefigueroa">don Juan Jacinto de Figueroa</persName>, dueño de aquella, quien se hizo cargo de dar caballos a los correos del rey y de particulares.<p>
+
+<p>De <placeName key="sinsacate">Sinsacate</placeName> iban los correos antes por <placeName key="sanantonio">San Antonio</placeName>San Antonio y <placeName key="sanpedro">San Pedro</placeName>, pero persuadieron al visitador a que era mejor<p>
+
+</body>
+</text>
+</TEI>
