@@ -7,7 +7,8 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="llc_exordio123">Folio-48</author>
+                <title xml:id="llc_exordio123">Folio-48</title>
+                <author>Alonso Carrió de la Vandera</author>
                 <editor resp="digital">Agustina Fernandez</editor>  
              </titleStmt>
             <publicationStmt>
@@ -46,9 +47,9 @@
 <pb n="I1"/>    
 que es muy flojo, tiene tanta actividad como el regular de la <placeName key="andalucia">Andalucía</placeName> y <placeName key="cataluña">Cataluña</placeName>. Aquí se hará prevención de todo, a excepción de gallinas y pollos, hasta <placeName key="santiagodelestero">Santiago Del Estero</placeName> o <placeName key="sanmigueldetucuman">San Miguel de Tucumán</placeName>.</p>
 
-<p>Las carretas, regularmente, cuando salen de esta ciudad siguiendo el viaje que llevo, no pasan de la otra banda del río, adonde harán prevención de agua los señores caminantes para dos días, no haciendo mucha confianza de la <note xml:id="h8nota3">botija</note> que va en cada carreta, porque en el camino sólo se encuentra un pozo, en tiempo de avenidas, que enturbia mucho el ganado y no se halla agua en trece leguas de monte muy espeso y ardiente, hasta que se encuentra la estancia nombrada <placeName key="estanciacaroya">Caroya,</placeName> perteneciente al colegio de <placeName key="monserratdecordoba">Monserrat de Córdoba</placeName>, y entre ésta y <placeName key="sinsacate">Sinsacate</placeName> está la Hacienda del Rey, nombrada <persName key="jesusmaria">Jesús María</persName>, que administra <persName key="donjuanjacintodefigueroa">don Juan Jacinto de Figueroa</persName>, dueño de aquella, quien se hizo cargo de dar caballos a los correos del rey y de particulares.<p>
+<p>Las carretas, regularmente, cuando salen de esta ciudad siguiendo el viaje que llevo, no pasan de la otra banda del río, adonde harán prevención de agua los señores caminantes para dos días, no haciendo mucha confianza de la <note xml:id="h8nota3">botija</note> que va en cada carreta, porque en el camino sólo se encuentra un pozo, en tiempo de avenidas, que enturbia mucho el ganado y no se halla agua en trece leguas de monte muy espeso y ardiente, hasta que se encuentra la estancia nombrada <placeName key="estanciacaroya">Caroya,</placeName> perteneciente al colegio de <placeName key="monserratdecordoba">Monserrat de Córdoba</placeName>, y entre ésta y <placeName key="sinsacate">Sinsacate</placeName> está la Hacienda del Rey, nombrada <persName key="jesusmaria">Jesús María</persName>, que administra <persName key="donjuanjacintodefigueroa">don Juan Jacinto de Figueroa</persName>, dueño de aquella, quien se hizo cargo de dar caballos a los correos del rey y de particulares.</p>
 
-<p>De <placeName key="sinsacate">Sinsacate</placeName> iban los correos antes por <placeName key="sanantonio">San Antonio</placeName>San Antonio y <placeName key="sanpedro">San Pedro</placeName>, pero persuadieron al visitador a que era mejor<p>
+<p>De <placeName key="sinsacate">Sinsacate</placeName> iban los correos antes por <placeName key="sanantonio">San Antonio</placeName>San Antonio y <placeName key="sanpedro">San Pedro</placeName>, pero persuadieron al visitador a que era mejor</p>
 
 </body>
 </text>
