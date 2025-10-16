@@ -7,7 +7,7 @@
     <teiHeader> 
         <fileDesc>
             <titleStmt>
-                <title xml:id="cordova">Fragmento de El lazarillo de ciegos caminantes - Jurisdicción de Cordova</title>
+                <title xml:id="lcc_cordoba">Fragmento de El lazarillo de ciegos caminantes - Jurisdicción de Cordova</title>
                 <author>Alonso Carrió de la Vandera</author>
                 <editor xml:id="alvarez">Emma Alvarez</editor> 
                 <editor xml:id="cosarinsky">Sol Cosarinsky</editor>  
