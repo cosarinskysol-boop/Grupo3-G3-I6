@@ -42,73 +42,23 @@
             <body>
 <pb n="G3"/>
 <head>Jurisdicción de Cordova</head>
-<table>
-        <row><cell></cell><cell>Leguas</cell></row>
-        <row>
-          <cell>De la <placeName key="esquinaguardia">Esquina de la Guardia</placeName>, a la <placeName key="cabezatigre">Cabeza del Tigre</placeName></cell>
-          <cell>7</cell>
-        </row>
-        <row>
-          <cell>Al <placeName key="saladilloderuydiaz">Saladillo de Ruy Díaz</placeName></cell>
-          <cell>5</cell>
-        </row>
-        <row>
-          <cell><placeName key="esquinacastillo">Esquina de Castillo</placeName></cell>
-          <cell>9</cell>
-        </row>
-        <row>
-          <cell>Al <placeName key="fraylemuerto">Frayle Muerto</placeName></cell>
-          <cell>2</cell>
-        </row>
-        <row>
-          <cell>A la <placeName key="esquinacolman">Esquina de Colman</placeName></cell>
-          <cell>8</cell>
-        </row>
-        <row>
-          <cell>A la <placeName key="esquinaferreira">Esquina del Paso de Ferreira</placeName></cell>
-          <cell>3</cell>
-        </row>
-        <row>
-          <cell>A <placeName key="tiopugio">Tío Pugio</placeName></cell>
-          <cell>5</cell>
-        </row>
-        <row>
-          <cell>A los <placeName key="puestosdeferreira">Puestos de Ferreira</placeName></cell>
-          <cell>3</cell>
-        </row>
-        <row>
-          <cell>A <placeName key="ampira">Ampira</placeName></cell>
-          <cell>10</cell>
-        </row>
-        <row>
-          <cell>Al <placeName key="riosegundo">Río Segundo</placeName></cell>
-          <cell>5</cell>
-        </row>
-        <row>
-          <cell>A <placeName key="cordova">Cordova</placeName></cell>
-          <cell>9</cell>
-        </row>
-        <row>
-          <cell>A <placeName key="sinsacate">Sinsacate</placeName></cell>
-          <cell>14</cell>
-        </row>
-        <row>
-          <cell>A <placeName key="ladormida">La Dormida</placeName></cell>
-          <cell>16</cell>
-        </row>
-        <row>
-          <cell>A <placeName key="urahuerta">Urahuerta</placeName></cell>
-          <cell>10</cell>
-        </row>
-        <row>
-          <cell>Al <placeName key="cachi">Cachi</placeName></cell>
-          <cell>7</cell>
-        </row>
-        <row role="total">
-          <cell></cell>
-          <cell>113</cell>
-        </row>
-      </table>
+        <l n="1"> Leguas</l>
+        <l n ="2">De la <placeName key="esquinaguardia">Esquina de la Guardia</placeName>, a la <placeName key="cabezatigre">Cabeza del Tigre</placeName> ... 07</l>
+        <l n="3">Al <placeName key="saladilloderuydiaz">Saladillo de Ruy Díaz</placeName> ... 05</l>
+        <l n="4">A la <placeName key="esquinacastillo">Esquina de Castillo</placeName> .. 09</l>
+        <l n="5">Al <placeName key="fraylemuerto">Frayle Muerto</placeName> ... 02</l>
+        <l n="6">A la <placeName key="esquinacolman">Esquina de Colman</placeName> ... 08</l>
+        <l n="7">A la <placeName key="esquinaferreira">Esquina del Paso de Ferreira</placeName> ... 03</l>
+        <l n="8">A <placeName key="tiopugio">Tío Pugio</placeName> ... 05</l>
+        <l n="9">A los <placeName key="puestosdeferreira">Puestos de Ferreira</placeName> ... 03</l>
+        <l n="10">A <placeName key="ampira">Ampira</placeName> ... 10</l>
+        <l n="11">Al <placeName key="riosegundo">Río Segundo</placeName> ... 05</l>
+        <l n="12">A <placeName key="cordova">Cordova</placeName> ... 09</l>
+        <l n="13">A <placeName key="sinsacate">Sinsacate</placeName> ... 14</l>
+        <l n="14">A <placeName key="ladormida">La Dormida</placeName> ... 16</l>
+        <l n="15">A <placeName key="urahuerta">Urahuerta</placeName> ... 10</l>
+        <l n="16">Al <placeName key="cachi">Cachi</placeName> ... 07</l>
+        <l n="17">113</l>
       <p>A la salida del <placeName key="Carcarañar">Carcarañar</placeName>, o llámese de <placeName key="esquinaguardia">la Esquina de la Guardia </placeName>, da princi<pb n="G4"/>
         pio la provincia del <placeName key="tucuman">Tucumán</placeName> siguiendo el camino real de los correos por la jurisdicción de <placeName key="cordoba">Córdoba</placeName>, costeando el <placeName key="riotercero">río Tercero</placeName> por la banda del oeste. Este río es muy caudaloso, de aguas turbias y mansas, algo salado y con bastantes peces que cogen los muchachos por mera diversión, dejándolos a las orillas, porque sus naturales, sin embargo de que la carne no está tan abundante como en los pagos de <placeName key="bsas">Buenos Aires</placeName>, no los aprovechan; ni aun los perros los quieren comer. Por la una y otra banda está bordado de sauces, <note xml:id="g4nota1">chañares</note> y algarrobos. Los pastos no son tan finos como los de <placeName key="bsas">Buenos Aires</placeName>, pero son de más fuerte alimento para los ganados. Los caballos y bueyes son fuertes y de mucho trabajo. Una y otra banda están pobladas a trechos de algunos pequeños criadores, que también cogen trigo y cebada. La fruta más común es el durazno. Muchachos, mujeres y hombres, aunque no sepan nadar, pasan este río en caballos, que son diestrísimos. Conducen forasteros de la una a la otra banda en un cuero de toro en figura de una canasta cuadrilonga, por el corto estipendio de dos reales, sin perder casi nada el <note xml:id="g4nota2">barlovento</note>, porque los caballos son tan <pb n="G5"/>diestros que siempre presentan el pecho a la corriente, y en cada viaje llevan dos hombres con su aderezo de caballos, pellones y maletas.</p>
 
