@@ -12,37 +12,11 @@ credits: true
 
 ## Sobre la edición
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
-## Sección 1
-
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
-
-## Sección 2
-
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
-
-## Sección 3
-
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+La presente edición digital consiste en el capítulo “Jurisdicción de Córdova”, del *Lazarillo de Ciegos Caminantes*, publicado en 1773 por **Alonso Carrió de la Vandera**. El texto pertenece al periodo del reformismo borbónico e intentó ser una descripción fidedigna de las colonias americanas para los lectores españoles, siendo este un género de publicación típico de la época. Este capítulo relata, en forma de crónica de viajes, el recorrido desde Córdoba hasta Santiago del Estero, donde el autor registra las distintas postas que conformaban el Camino Real en tiempos coloniales, tales como el Saladillo de Ruy Diaz, Fraile Muerto y Sinsacate.  
+<br/>
+<br/>
+Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, a través de la materia “Humanidades Digitales”. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. 
+<br/>
+<br/>
+La edición de este capítulo en particular estuvo a cargo de **Emma Alvarez**, **Sol Cosarinsky**, **Luna Feit**, **Agustina Fernandez** y **Valentina Taboada**, alumnas del último año de las Licenciaturas en Historia y Economía Empresarial.  
 
